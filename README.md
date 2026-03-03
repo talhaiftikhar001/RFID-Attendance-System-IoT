@@ -68,13 +68,6 @@ The system reads RFID card UID, sends it to a local server using HTTP protocol, 
 
 ---
 
-## 📷 Future Improvements
-- Cloud deployment
-- Mobile App integration
-- Face recognition integration
-- Admin dashboard improvements
-
----
 
 ## 📜 License
 This project is for academic and portfolio purposes.
